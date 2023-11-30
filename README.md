@@ -29,10 +29,11 @@ Execute o executável seguindo as instruções.
 
 <h2>Personalização</h2>
 O script organiza os arquivos com base nas seguintes condições padrão:
-
-Documentos PDF: Arquivos com a extensão .pdf
-Documentos de Texto: Arquivos com a extensão .txt
-Outros: Todos os outros arquivos
+<ul>
+<li>Documentos PDF: Arquivos com a extensão .pdf</li>
+<li>Documentos de Texto: Arquivos com a extensão .txt</li>
+<li>Outros: Todos os outros arquivos</li>
+</ul>
 Você pode personalizar essas condições diretamente no script organizar.py conforme necessário.
 
 <h2>Criação de Executável (Opcional)</h2>
@@ -43,8 +44,9 @@ Se desejar criar um executável para facilitar a execução, você pode usar o P
 O executável será gerado na pasta dist.
 
 <h2>Notas Importantes</h2>
-Certifique-se de fornecer permissões adequadas para acessar e modificar os diretórios especificados.
-O executável gerado é específico para o sistema operacional Windows.
-Se você encontrar problemas ou erros, consulte a seção de Problemas Conhecidos ou Abra uma Issue.
-
+<ul>
+<li>Certifique-se de fornecer permissões adequadas para acessar e modificar os diretórios especificados.</li>
+<li>O executável gerado é específico para o sistema operacional Windows.</li>
+<li>Se você encontrar problemas ou erros, consulte a seção de Problemas Conhecidos ou Abra uma Issue.</li>
+</ul>
 Direitos Reservados developer: Jefferson Fonseca
