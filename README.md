@@ -10,7 +10,7 @@ Este script Python foi desenvolvido para organizar arquivos em categorias espec�
 </ul>
 
 <h2>Como Usar</h2>
-Opção 1: Executar o Script Python
+<h3>Opção 1: Executar o Script Python</h3>
 Certifique-se de ter o Python 3.x instalado no seu sistema.
 
 Abra um terminal.
@@ -20,7 +20,7 @@ Navegue até o diretório onde o script organizar.py está localizado.
 <h2>Execute o seguinte comando:</h2>
 
 'python organizar.py'
-Siga as instruções no console para selecionar os diretórios de origem e destino.
+<p>Siga as instruções no console para selecionar os diretórios de origem e destino.</p>
 
 <h2>Opção 2: Executar o Executável (Windows)</h2>
 Se você não tiver o Python instalado, você pode usar o executável fornecido.
@@ -49,4 +49,5 @@ O executável será gerado na pasta dist.
 <li>O executável gerado é específico para o sistema operacional Windows.</li>
 <li>Se você encontrar problemas ou erros, consulte a seção de Problemas Conhecidos ou Abra uma Issue.</li>
 </ul>
-Direitos Reservados developer: Jefferson Fonseca
+
+<p>Direitos Reservados developer: Jefferson Fonseca</p>
