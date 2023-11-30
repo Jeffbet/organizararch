@@ -4,8 +4,10 @@
 Este script Python foi desenvolvido para organizar arquivos em categorias específicas com base em suas extensões. A organização é feita movendo os arquivos de uma pasta de origem para pastas de destino correspondentes.
 
 <h2>Requisitos</h2>
-Python 3.x instalado
-PyInstaller (opcional, apenas se desejar criar um executável)
+<ul>
+<li>Python 3.x instalado</li>
+<li>PyInstaller (opcional, apenas se desejar criar um executável)</li>
+</ul>
 
 <h2>Como Usar</h2>
 Opção 1: Executar o Script Python
